@@ -12,7 +12,7 @@ A lightweight and robust Hardware Abstraction Layer (HAL) for managing I2C commu
 ## Installation
 
 1. Copy this folder into your project's `components/` directory.
-2. The component name is `esp32-i2c-handler`..
+2. The component name is `esp32-i2c-handler`.
 
 ## Usage Guide
 
