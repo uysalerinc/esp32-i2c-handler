@@ -41,7 +41,8 @@ Check if a specific sensor is present on the bus without registering it.
 esp_err_t err = i2c_handler_probe(i2c_bus, 0x44);
 if (err == ESP_OK) {
     printf("Sensor detected at address 0x44\n");
-}```
+}
+```
 
 
 ### 3. Persistent Communication
